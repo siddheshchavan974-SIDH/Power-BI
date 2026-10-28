@@ -6,12 +6,13 @@ The objective of this project is to analyze food delivery and restaurant operati
 
 ### 🗂️ Dataset and Tables
 
-The project uses the food_delivery_db MySQL database, containing seven tables as follows
-| Table | Description|
-| Customers | Customer details |
-| Restaurants | Restaurant information |
-| Menu_items | Menu items, categories, and prices |
-| Delivery_partners | Delivery partner details |
-| Orders | Order status and delivery information |
-| Order_items | Items and quantities in each order |
-| Payments | Payment methods and details |
+The project uses the food_delivery_db MySQL database, containing seven tables as follows<br>
+| Table                     | Description            |
+|---------------------------|------------------------|
+| Customers                 | Customer details       |
+| Restaurants               | Restaurant information |
+| Menu_items                | Menu items, categories, and prices |
+| Delivery_partners         | Delivery partner details |
+| Orders                    | Order status and delivery information |
+| Order_items               | Items and quantities in each order |
+| Payments                  | Payment methods and details |
