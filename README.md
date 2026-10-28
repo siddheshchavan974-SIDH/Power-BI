@@ -16,3 +16,15 @@ The project uses the food_delivery_db MySQL database, containing seven tables as
 | Orders                    | Order status and delivery information |
 | Order_items               | Items and quantities in each order |
 | Payments                  | Payment methods and details |
+
+### Key Performance Indicators (KPIs)
+
+The Power BI dashboard focuses on the following business KPIs:<br>
+* Total Orders: Number of orders placed.<br>
+* Total Revenue: Revenue generated from orders, based on the defined calculation.<br>
+* Total Customers: Number of unique customers.<br>
+* Order Cancellation Rate: Percentage of cancelled orders.<br>
+* Average Delivery Time: Average time taken to deliver orders.<br>
+* Top-Performing Restaurants: Restaurants ranked by order volume or revenue.<br>
+* Payment Analysis: Breakdown of payment methods and payment statuses.<br>
+
